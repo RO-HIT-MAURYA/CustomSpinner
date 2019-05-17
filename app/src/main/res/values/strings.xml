@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CustomSpinner</string>
+
+    <string-array name="city">
+
+        <item> - - - City - - - </item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Benguluru</item>
+        <item>Pune</item>
+        <item>Amritsar</item>
+        <item>Jaypur</item>
+        <item>Surat</item>
+
+    </string-array>
+
+    <string-array name="state">
+
+        <item> - - - State - - - </item>
+        <item>Gujarat</item>
+        <item>Andhra</item>
+        <item>Telengana</item>
+        <item>Maharashtra</item>
+        <item>Up</item>
+        <item>Mp</item>
+        <item>Rajasthan</item>
+
+    </string-array>
+
+</resources>
